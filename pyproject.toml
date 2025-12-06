@@ -1,0 +1,10 @@
+[project]
+name = "k8s-tui"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "kubernetes>=34.1.0",
+    "opentelemetry-sdk>=1.39.0",
+]
