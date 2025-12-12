@@ -7,4 +7,5 @@ requires-python = ">=3.11"
 dependencies = [
     "kubernetes>=34.1.0",
     "opentelemetry-sdk>=1.39.0",
+    "textual>=6.8.0",
 ]
