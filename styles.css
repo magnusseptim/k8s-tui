@@ -1,0 +1,15 @@
+Screen {
+    align: center middle;
+}
+
+.resource-view {
+    width: 100%;
+    height: 100%;
+    overflow-y: auto;
+    background: #1e1e1e;
+    color: white;
+}
+
+TabbedContent > TabPane > Label {
+    padding: 1;
+}
